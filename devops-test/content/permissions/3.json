@@ -1,0 +1,6 @@
+{
+  "name": "admin",
+  "allowed": [
+    "DELETE"
+  ]
+}

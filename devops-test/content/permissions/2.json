@@ -1,0 +1,7 @@
+{
+  "name": "write",
+  "allowed": [
+    "POST",
+    "PUT"
+  ]
+}

@@ -1,0 +1,4 @@
+name: read
+allowed:
+  - GET
+  - HEAD

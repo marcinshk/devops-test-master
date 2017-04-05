@@ -1,0 +1,4 @@
+name: operator
+permissions:
+  - read
+  - write
